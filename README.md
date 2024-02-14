@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Rajesh2215043
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning html,css,javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 Feel free to contact ma : rajeshsakti151@gmail.com
+- ⚡ Fun fact: ...
