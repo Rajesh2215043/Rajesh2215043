@@ -10,7 +10,7 @@ Information technology Student
 - 👀 I’m interested in Full stack development
 - 💬 Ask me about Tech
 - 💞️ I’m looking to collaborate on ...
-- 📫 Feel free to contact ma : rajeshsakti151@gmail.com
+- 📫 Feel free to contact me : rajeshsakti151@gmail.com
 - ⚡ Fun fact: ...
 - 😄 Pronouns: Techie
 - 📫 How to reach me :
