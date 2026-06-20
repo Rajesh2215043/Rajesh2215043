@@ -33,66 +33,34 @@
 
 ### 💻 Development & System Languages
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="java" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/python/3776AB" alt="python" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.webinfo.com/c" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/c/00599C" alt="c" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="cplusplus" width="50" height="50"/>
-  </a>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
 ### 🌐 Client Libraries & Framework Ecosystems
 <p align="left">
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="reactnative" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="react" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="html5" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="css3" width="50" height="50"/>
-  </a>
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/react_js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ### 🗄️ Storage Engine & Backend Cloud
 <p align="left">
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="supabase" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="mysql" width="50" height="50"/>
-  </a>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 ### 🔧 Diagnostics & Architectural Tooling
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/visualstudiocode/0078D4" alt="vscode" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/git/F05033" alt="git" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="figma" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="powerbi" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/anaconda/44A833" alt="anaconda" width="50" height="50"/>
-  </a>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/>
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
 </p>
 
 ---
