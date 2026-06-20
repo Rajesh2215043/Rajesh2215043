@@ -34,64 +34,64 @@
 ### 💻 Development & System Languages
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="java" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/python/3776AB" alt="python" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.webinfo.com/c" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/c/00599C" alt="c" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="cplusplus" width="50" height="50"/>
   </a>
 </p>
 
 ### 🌐 Client Libraries & Framework Ecosystems
 <p align="left">
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="reactnative" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="react" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="html5" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="css3" width="50" height="50"/>
   </a>
 </p>
 
 ### 🗄️ Storage Engine & Backend Cloud
 <p align="left">
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="supabase" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="mysql" width="50" height="50"/>
   </a>
 </p>
 
 ### 🔧 Diagnostics & Architectural Tooling
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/visualstudiocode/0078D4" alt="vscode" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/git/F05033" alt="git" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="figma" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" alt="powerbi" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="powerbi" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" alt="anaconda" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/anaconda/44A833" alt="anaconda" width="50" height="50"/>
   </a>
 </p>
 
