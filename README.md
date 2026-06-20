@@ -1,112 +1,96 @@
-# Hi There, I'm Rajesh M! 👋
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Rajesh2215043&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
+# <!-- Profile Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=RAJESH%20M&subtitle=Full%20Stack%20%26%20Mobile%20Ecosystems%20Engineer&theme=tokyonight&fontSize=42&fontAlignY=45" width="100%" alt="Header" />
 </p>
-
-### 🚀 Information Technology Professional & Full-Stack Developer
 
 <p align="center">
-  <img align="right" width="420" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding GIF">
-</p>
-
-- 🧠 **Focus:** Building scalable applications, combining data-driven backends with seamless mobile/web user experiences.
-- 🌱 **Currently expanding:** Advanced React.js architectures and modern full-stack workflows.
-- 💬 **Ask me about:** React Native, database architecture, or integrating intelligent solutions into core apps.
-- 💞️ **Looking to collaborate on:** Open-source Full Stack web apps and innovative mobile ecosystem projects.
-- ⚡ **Fun Fact:** I approach optimization problems the way I approach debugging—one carefully placed breakdown at a time.
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rajesh-m-328218275/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rajeshsakti151@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/rajesh-m-328218275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rajeshsakti151@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Rajesh2215043&label=⚡%20PROFILE%20VIEWS&color=7928ca&style=for-the-badge" alt="Views"/>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+## 💫 About Me
 
-<table>
+<table border="0">
   <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      <br />JavaScript
+    <td width="60%" valign="top">
+      <p>🧠 <b>Core Focus:</b> Information Technology professional specializing in architecture design, data-intensive backends, and modular client interfaces.</p>
+      <p>🚀 <b>Current Horizon:</b> Engineering high-performance components across React architectures and robust cross-platform mobile environments.</p>
+      <p>⚡ <b>Philosophy:</b> Scalability isn't an afterthought; it's the foundation. I write explicit, maintainable code engineered to handle load.</p>
+      <p>💬 <b>Consult Me On:</b> Complex logic implementation, state management, backend synchronization protocols, and database schema performance.</p>
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactnative" width="40" height="40"/>
-      <br />React Native
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
-      <br />Supabase
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      <br />MySQL
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      <br />Java
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      <br />Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      <br />C
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-      <br />C++
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      <br />HTML5
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      <br />CSS3
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-      <br />Figma
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-      <br />Git
+    <td width="40%" valign="top" align="center">
+      <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="280" style="border-radius: 10px;" alt="Coding Asset"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Performance & Coding Metrics
+## 🛠️ Technology Stack & Ecosystem Matrix
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajesh2215043&theme=tokyonight" alt="GitHub Streak" \>
+### 💻 Development & System Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/rajesh_2215043?theme=light&font=Arsenal" alt="LeetCode Stats" />
+### 🌐 Client Libraries & Framework Ecosystems
+<p align="left">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/react_js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### 🗄️ Storage Engine & Backend Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### 🔧 Diagnostics & Architectural Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/>
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
 </p>
 
 ---
 
-### 💻 Rig Architecture
-<p align="left">
-  <img src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Processor" />
-  <img src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU" />
+## 📊 Analytics & Runtime Operational Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajesh2215043&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" width="48%" alt="GitHub Metrics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajesh2215043&theme=tokyonight" width="48%" alt="Contribution Streak" />
 </p>
 
-<br />
-<p align="center">🏎️ <i>Keep iterating. The bug stops here.</i></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh2215043&layout=compact&theme=tokyonight&langs_count=6" width="48%" alt="Language Breakdown" />
+  <img src="https://leetcard.jacoblin.cool/rajesh_2215043?theme=dark&font=Arsenal" width="48%" alt="LeetCode Distribution" />
+</p>
+
+---
+
+## 💻 Workspace Spec
+<p align="left">
+  <img src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Ryzen 5" />
+  <img src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GTX 1650" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Developer Quote" />
+</p>
+
+<p align="center">
+  🎛️ <code>Compilation Successful. Zero errors. Zero warnings.</code>
+</p>
